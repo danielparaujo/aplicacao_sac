@@ -2,3 +2,4 @@
 
  - Crud de produtos e fornecedores;
  - Finalização de SACs com indicação de forncedores;
+ - Graficos de exibição;
